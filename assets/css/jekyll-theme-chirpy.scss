@@ -1,0 +1,39 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+a {
+  --link-color: firebrick;
+  --link-underline-color: firebrick;
+}
+
+.btn {
+  --bs-btn-hover-bg: firebrick;
+}
+
+#page-category a:hover, #page-tag a:hover, .post-tail-wrapper .license-wrapper > a:hover, #search-results a:hover, #topbar #breadcrumb a:hover, .content a:not(.img-link):hover, .post-meta a:not([class]):hover, #access-lastmod a:hover, footer a:hover {
+    color: indianred !important;
+    border-bottom: 1px solid indianred;
+    text-decoration: none;
+}
+
+.post-tags .post-tag:hover {
+  color: indianred !important;
+  text-decoration: none;
+}
+
+.btn:hover, .btn.btn-outline-primary:not(.disabled):hover {
+  color: white;
+  border-color: firebrick !important;
+}
+
+.post-navigation .btn:not(:hover) {
+  color: firebrick;
+}
