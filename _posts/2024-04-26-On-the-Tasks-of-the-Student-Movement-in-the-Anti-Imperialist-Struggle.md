@@ -4,6 +4,7 @@ date: 2024-04-26 00:00:00 -0400
 author: mass_struggle
 categories: [Student Movement]
 tags: [statement]     # TAG names should always be lowercase
+platforms:
 ---
 
 **It is Right To Rebel!**
@@ -34,4 +35,4 @@ For the student movement, that especially means to learn from the revolutionary 
 
 **FROM THE RIVER TO THE SEA, PALESTINE WILL BE FREE!**
 
-<embed src="/../assets/files/student ms.pdf" width="100%" height="500vh" type='application/pdf'>
+[PDF](/../assets/files/student ms.pdf)
