@@ -1,12 +1,12 @@
 mass_struggle:
   name: Mass Struggle
-  twitter: <https://twitter.com/_mass_struggle>
-  instagram: <https://instagram.com/mass_struggle>
+  twitter: https://twitter.com/_mass_struggle
+  url: http://127.0.0.1:4000/contributors/mass_struggle
 
 frn:
   name: Fenway Rebel Nurse
-  twitter: <https://twitter.com/FHRebelNurse>
-  instagram: <https://instagram.com/fhrebelnurse>
+  twitter: https://twitter.com/FHRebelNurse
+  instagram: https://instagram.com/fhrebelnurse
 
 tyler:
   name: Comrade Tyler
